@@ -9,8 +9,8 @@ from keras import optimizers
 # dimensions of our images.
 img_width, img_height = 150, 150
 
-train_data_dir = 'C:/Users/kashyap.gaglani/Documents/deep_learning_with_python/Data/DevanagariHandwrittenCharacterDataset/Train'
-validation_data_dir = 'C:/Users/kashyap.gaglani/Documents/deep_learning_with_python/Data/DevanagariHandwrittenCharacterDataset/Test'
+train_data_dir = 'Data/DevanagariHandwrittenCharacterDataset/Train'
+validation_data_dir = '/Data/DevanagariHandwrittenCharacterDataset/Test'
 
 
 #import data
